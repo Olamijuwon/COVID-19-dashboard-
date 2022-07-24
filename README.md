@@ -1,6 +1,6 @@
 # COVID-19-dashboard-
 A COVID-19 dashboard created from data source gotten from Github, cleaned and transformed showing graphs and table of various results derived from the analysis. 
-Link to the COVID-19 Dashboard https://1drv.ms/x/s!Ap_2uNmSfE9zbnIBUHhL3CYMOxA
+Link to the COVID-19 Dashboard https://1drv.ms/x/s!Ap_2uNmSfE9zb32IpHsp-V8NOtE
 # Problem Statement
 # The aim of this project is to detect:
   1. Top 5 countries that has the highest prevalence of COVID-19 cases since 2020.
