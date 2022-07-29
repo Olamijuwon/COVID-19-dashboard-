@@ -26,5 +26,7 @@ Link to the COVID-19 Dashboard https://1drv.ms/x/s!Ap_2uNmSfE9zb32IpHsp-V8NOtE
 # Recommendation 
   I recommend we continue to observe safety precautions ( use of face masks, washing of hands for up to 20 seconds, avoid hand shakes as much as possible ...).
    Anyone who show sins of the symptoms should visit the nearest hospital for necessary testing and isolation.
+  ![Screenshot 2022-07-29 113548_coviddashboard](https://user-images.githubusercontent.com/107110652/181742126-ebc0ae50-506d-4ef4-8757-5a1cf33f3cab.png)
+
   
-  
+![Screenshot 2022-07-29 113645_coviddashboard_2](https://user-images.githubusercontent.com/107110652/181742156-df1ea64d-684c-4146-8afd-65ffbdb9836d.png)
